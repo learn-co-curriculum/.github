@@ -1,0 +1,8 @@
+{
+    "name": "Canvas Sync Workflow",
+    "description": "Standard GitHub to Canvas Sync Workflow template.",
+    "iconName": "icon",
+    "categories": [
+        "Ruby"
+    ]
+}
