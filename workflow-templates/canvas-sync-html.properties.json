@@ -1,0 +1,8 @@
+{
+    "name": "Canvas Sync HTML Workflow",
+    "description": "GitHub to Canvas Sync Workflow template for Readmes containing HTML code snippets. Escapes HTML code so Canvas won't render it.",
+    "iconName": "icon",
+    "categories": [
+        "Ruby"
+    ]
+}
