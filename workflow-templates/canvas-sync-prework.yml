@@ -1,6 +1,6 @@
 # Secret stored in learn-co-curriculum Settings/Secrets
 
-name: Sync with Canvas
+name: Sync with Canvas Pre-Work
 
 on:
   push:
