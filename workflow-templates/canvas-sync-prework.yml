@@ -4,7 +4,7 @@ name: Sync with Canvas Pre-Work
 
 on:
   push:
-    branches: [master]
+    branches: [master, main]
     paths:
       - "README.md"
 
@@ -23,8 +23,6 @@ jobs:
           ruby-version: 2.6
 
       # hidden dep, could remove this step if Gemfile for github-to-canvas is updated
-      - name: Install byebug
-        run: gem install byebug
 
       - name: Install github-to-canvas
         run: gem install github-to-canvas
