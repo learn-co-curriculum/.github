@@ -22,20 +22,20 @@ an instructor/your peers._
 
 ## Link to Canvas
 
-Add a link to the assignment in Canvas here.
+> Add a link to the assignment in Canvas here.
 
 ## Describe the bug
 
-Write a clear and concise description of what the bug is. Include the file and
-line number(s) if possible.
+> Write a clear and concise description of what the bug is. Include the file and
+> line number(s) if possible.
 
 ## What is the expected behavior?
 
-Write a clear and concise description of what you expected to happen.
+> Write a clear and concise description of what you expected to happen.
 
 ## Screenshots
 
-If applicable, attach screenshots to help explain your problem.
+> If applicable, attach screenshots to help explain your problem.
 
 ## What OS are you using?
 
@@ -45,4 +45,4 @@ If applicable, attach screenshots to help explain your problem.
 
 ## Any additional context?
 
-Add any other context about the problem here.
+> Add any other context about the problem here.
