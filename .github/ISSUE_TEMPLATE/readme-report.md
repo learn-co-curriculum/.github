@@ -22,14 +22,14 @@ an instructor/your peers._
 
 ## Link to Canvas
 
-Add a link to the assignment in Canvas here.
+> Add a link to the assignment in Canvas here.
 
 ## What should be changed?
 
-Suggest your change here. Let us know what section or line of the Readme needs
-to be updated, and any proposed corrections. Include the line number(s) if
-possible.
+> Suggest your change here. Let us know what section or line of the Readme needs
+> to be updated, and any proposed corrections. Include the line number(s) if
+> possible.
 
 ## Additional context
 
-Add any other context about the problem here.
+> Add any other context about the problem here.
