@@ -1,6 +1,6 @@
 ---
-name: Readme Report
-about: Suggest changes or correct typos in the Readme for this lesson
+name: README Report
+about: Suggest changes or correct typos in the README for this lesson
 title: ""
 labels: documentation
 assignees: ""
