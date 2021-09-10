@@ -26,7 +26,7 @@ an instructor/your peers._
 
 ## What should be changed?
 
-> Suggest your change here. Let us know what section or line of the Readme needs
+> Suggest your change here. Let us know what section or line of the README needs
 > to be updated, and any proposed corrections. Include the line number(s) if
 > possible.
 
