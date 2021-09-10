@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Report issues in a lesson's code
+about: Report issues in a lesson's source code
 title: ""
 labels: bug
 assignees: ""
