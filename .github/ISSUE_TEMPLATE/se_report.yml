@@ -1,0 +1,43 @@
+name: SE Report
+description: Report issues in a Software Engineering lesson's source code
+title: "[SE Issue] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for raising this issue! Future learners thank you for your diligence. In order to help the curriculum team address the problem, please use this template to submit your feedback. We'll work on addressing the issue as soon as we can.
+
+        _**Note**: you should only raise issues related to the contents of this lesson. If you have questions about your code or need help troubleshooting, reach out to an instructor/your peers._
+  - type: input
+    id: canvas-link
+    attributes:
+      label: Canvas Link
+      description: Include a link to the page in Canvas for this lesson.
+      placeholder: https://learning.flatironschool.com/courses/:course_id/pages/:page_id
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Concern
+      description: |
+        Describe what code or text in the README is causing an issue. Include the file and line number(s) if possible.
+      placeholder: Tell us what you see!
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context
+      description: |
+        Add any other context about the problem here, such as error messages or screenshots, to help explain your problem.
+    validations:
+      required: false
+  - type: textarea
+    id: changes
+    attributes:
+      label: Suggested Changes
+      description: |
+        If you have a suggestion on how to fix the issue, write it here!
+    validations:
+      required: false
