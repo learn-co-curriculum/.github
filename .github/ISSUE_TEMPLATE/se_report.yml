@@ -1,6 +1,5 @@
 name: Software Engineering Issue
 description: Report issues in a Software Engineering lesson's source code
-title: "[SE Issue] "
 labels: "se curriculum"
 body:
   - type: markdown
