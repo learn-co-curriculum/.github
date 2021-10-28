@@ -1,12 +1,16 @@
 ---
-name: DS Report
+name: Data Science Issue
 about: Report issues in the notebook of a data science lesson
 title: ""
 labels: ""
 assignees:
   - hoffm386
 ---
-<!--
+<!-- 
+**This template should only be used for Data Science lessons.** If you're a
+Software Engineering student, go back to the issues page and select the correct
+template.
+
 Thanks for raising this issue! Future learners thank you for your diligence. In
 order to help the curriculum team address the problem, please use this template
 to submit your feedback. We'll work on addressing the issue as soon as we can.
