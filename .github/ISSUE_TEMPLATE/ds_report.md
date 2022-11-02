@@ -4,7 +4,7 @@ about: Report issues in the notebook of a data science lesson
 title: ""
 labels: ""
 assignees:
-  - hoffm386
+  - learn-co-curriculum/dsc-central-education
 ---
 <!-- 
 **This template should only be used for Data Science lessons.** If you're a
