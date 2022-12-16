@@ -1,0 +1,8 @@
+{
+    "name": "Canvas Sync CodeGrade Workflow",
+    "description": "GitHub to Canvas Sync Workflow without the 'forkable' button",
+    "iconName": "icon",
+    "categories": [
+        "Ruby"
+    ]
+}
