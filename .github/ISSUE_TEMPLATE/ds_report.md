@@ -4,7 +4,6 @@ about: Report issues in the notebook of a data science lesson
 title: ""
 labels: ""
 assignees:
-  - ismayc
   - gadamico
   - jilliankim
   - Cheffrey2000
