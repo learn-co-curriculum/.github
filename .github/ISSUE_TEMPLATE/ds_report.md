@@ -5,7 +5,6 @@ title: ""
 labels: ""
 assignees:
   - gadamico
-  - jilliankim
   - Cheffrey2000
   - christine-egan42
   - bpurdy-ds
