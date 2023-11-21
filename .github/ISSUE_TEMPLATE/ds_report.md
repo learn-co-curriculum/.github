@@ -8,7 +8,6 @@ assignees:
   - Cheffrey2000
   - christine-egan42
   - bpurdy-ds
-  - ismayc
 ---
 <!-- 
 **This template should only be used for Data Science lessons.** If you're a
